@@ -34,7 +34,7 @@ body{
 .header a:first-child, .header a:last-child {
     padding: 0 85px;
 }
-.header .selected {
+.header a:hover {
     text-decoration: underline;
     opacity: 1;
     font-weight: 500;
