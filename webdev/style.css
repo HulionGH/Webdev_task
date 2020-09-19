@@ -1,7 +1,6 @@
 body{
     font-family: Roboto;
 }
-
 .main {
     max-width: 1600px;
     margin: 0 auto;
@@ -101,3 +100,42 @@ button{
     background-image: url(assets/telegram_fff.svg);
 }
 
+.block_second {
+    height: 842px;
+    width: 100%;
+}
+.second_left{
+    margin-top: 295px;
+    margin-left: 268px;
+    margin-right: 248px;
+    width: 407px;
+    height: 233px;
+    float: left;
+}
+.title_second {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 28px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #373737;
+    margin-bottom: 20px;
+    font-style: normal;
+}
+.text_second {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    color: #4E4E4E;
+    margin-bottom: 30px;
+}
+.second_right {
+}
+.content_one {
+    width: 407px;
+    height: 582px;
+    margin-top: 120px;
+}
