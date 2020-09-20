@@ -88,7 +88,7 @@ button {
     border: none;
 }
 button:hover {
-    box-shadow: 5px 10px 20px #ffaf6d;
+    box-shadow: 5px 10px 20px rgba(0, 175, 219, 0.39);
     cursor: pointer;
 }
 
